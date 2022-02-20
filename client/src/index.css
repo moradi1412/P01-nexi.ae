@@ -1,5 +1,5 @@
 :root {
-  --primary: #232F3E;
+  --primary: #085258;
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
@@ -80,6 +80,7 @@ a:hover {
 }
 
 header {
+  text-align: center;
   background: var(--primary);
 }
 
